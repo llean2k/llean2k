@@ -15,6 +15,6 @@
 
 ![photo_2025-05-01_12-58-51](https://github.com/user-attachments/assets/07e01c2e-7c2f-4528-8be1-9f2c5e028bcc)
 
-![](https://github-readme-stats.vercel.app/api?username=lean2k&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lean2k&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lean2k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=llean2k&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=llean2k&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=llean2k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
